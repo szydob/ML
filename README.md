@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository is a personal learning journey in Machine Learning, inspired by the work and ideas of Andrej Karpathy. Each project is a hands-on exploration of foundational concepts, focusing on implementing solutions from scratch to deepen my understanding and refine my skills.
+This repository is a personal learning journey in Machine Learning, inspired by the work and ideas of [Andrej Karpathy](https://karpathy.ai/). Each project is a hands-on exploration of foundational concepts, focusing on implementing solutions from scratch to deepen my understanding and refine my skills.
 
 ---
 
